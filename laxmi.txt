@@ -1,1 +1,2 @@
-this is laxmi
+this is laxmi file creted by lakshmi
+devops responcibulity is deploing applications faster to the market:
